@@ -1,0 +1,20 @@
+{
+    "redirect": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/developer?id=Qaila+Studio",
+        "appid": "pub-2009859815104934",
+        "admobappid": "ca-app-pub-2009859815104934~1872849097",
+        "interid": "ca-app-pub-2009859815104934/5620522415",
+        "nativeid": "ca-app-pub-2009859815104934/2685090086",
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "hahahihi",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "1",
+        "interval": "2"
+           
+        }
+    ]
+}
